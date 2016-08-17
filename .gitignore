@@ -1,0 +1,48 @@
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+target/
+import-summary.txt
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+# IntelliJ project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Package Files #
+*.war
+*.ear
+*.apk
+bin/
+bin
+gen/
+gen
+.metadata/
+.metadata
+
+# Gradle files
+.gradle/
+build/
+!build/outputs/mapping/release/mapping.txt
